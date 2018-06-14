@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaKalk", "MediaKalk\MediaKalk.csproj", "{F67C032F-383E-4680-B282-2271768F9D51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{79445F7A-2022-47D9-B638-9953F1A96AD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F67C032F-383E-4680-B282-2271768F9D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F67C032F-383E-4680-B282-2271768F9D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F67C032F-383E-4680-B282-2271768F9D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79445F7A-2022-47D9-B638-9953F1A96AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79445F7A-2022-47D9-B638-9953F1A96AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79445F7A-2022-47D9-B638-9953F1A96AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79445F7A-2022-47D9-B638-9953F1A96AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
